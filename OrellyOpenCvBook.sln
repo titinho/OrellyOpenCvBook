@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Feladat_1", "Feladat_6_1\Fe
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter6", "Chapter6", "{329CDDDF-6264-459C-A075-D6691CED00A0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter7", "Chapter7", "{4F5A8EA4-6717-4CF7-8A2B-D63266688EF7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Feladat1", "Feladat1\Feladat1.vcxproj", "{61D178F4-B54D-4682-842E-F7546BD52DE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -33,6 +37,14 @@ Global
 		{B254E276-9B0F-4B3A-85AD-637F15CB33AE}.Release|x64.Build.0 = Release|x64
 		{B254E276-9B0F-4B3A-85AD-637F15CB33AE}.Release|x86.ActiveCfg = Release|Win32
 		{B254E276-9B0F-4B3A-85AD-637F15CB33AE}.Release|x86.Build.0 = Release|Win32
+		{61D178F4-B54D-4682-842E-F7546BD52DE8}.Debug|x64.ActiveCfg = Debug|x64
+		{61D178F4-B54D-4682-842E-F7546BD52DE8}.Debug|x64.Build.0 = Debug|x64
+		{61D178F4-B54D-4682-842E-F7546BD52DE8}.Debug|x86.ActiveCfg = Debug|Win32
+		{61D178F4-B54D-4682-842E-F7546BD52DE8}.Debug|x86.Build.0 = Debug|Win32
+		{61D178F4-B54D-4682-842E-F7546BD52DE8}.Release|x64.ActiveCfg = Release|x64
+		{61D178F4-B54D-4682-842E-F7546BD52DE8}.Release|x64.Build.0 = Release|x64
+		{61D178F4-B54D-4682-842E-F7546BD52DE8}.Release|x86.ActiveCfg = Release|Win32
+		{61D178F4-B54D-4682-842E-F7546BD52DE8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -40,5 +52,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{92D1B233-F03C-485C-A22B-D6DE9DE5868D} = {329CDDDF-6264-459C-A075-D6691CED00A0}
 		{B254E276-9B0F-4B3A-85AD-637F15CB33AE} = {329CDDDF-6264-459C-A075-D6691CED00A0}
+		{61D178F4-B54D-4682-842E-F7546BD52DE8} = {4F5A8EA4-6717-4CF7-8A2B-D63266688EF7}
 	EndGlobalSection
 EndGlobal
