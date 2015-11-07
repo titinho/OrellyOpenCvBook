@@ -8,6 +8,7 @@ using namespace std;
 using namespace cv;
 
 
+
 void myCircle(int dx, int dy, cv::Mat& image, cv::Scalar scalar);
 
 #define PI 3.141592
